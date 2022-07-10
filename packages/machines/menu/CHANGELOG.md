@@ -1,5 +1,19 @@
 # @zag-js/menu
 
+## 0.1.10
+
+### Patch Changes
+
+- [#191](https://github.com/chakra-ui/zag/pull/191)
+  [`66cb9c99`](https://github.com/chakra-ui/zag/commit/66cb9c998662fd049590d51cfdcd79f03e2f582b) Thanks
+  [@anubra266](https://github.com/anubra266)! - Improve SSR by omitting the setup step.
+
+- Updated dependencies [[`569d98e1`](https://github.com/chakra-ui/zag/commit/569d98e186dc95c97b1b897b6cc0183065646031),
+  [`66cb9c99`](https://github.com/chakra-ui/zag/commit/66cb9c998662fd049590d51cfdcd79f03e2f582b)]:
+  - @zag-js/dismissable@0.1.2
+  - @zag-js/types@0.2.2
+  - @zag-js/popper@0.1.8
+
 ## 0.1.9
 
 ### Patch Changes

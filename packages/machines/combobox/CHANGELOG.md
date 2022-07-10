@@ -1,5 +1,26 @@
 # @zag-js/combobox
 
+## 0.1.11
+
+### Patch Changes
+
+- [`248a6a03`](https://github.com/chakra-ui/zag/commit/248a6a03d88cedb1f24b6b6cb4ac96444595878f) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Refactor live region to own package
+
+* [`b1384f4e`](https://github.com/chakra-ui/zag/commit/b1384f4ec22d4310c6108e1941dbf2a676e6bcee) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Refactor to remove scroll-into-view package
+
+- [#191](https://github.com/chakra-ui/zag/pull/191)
+  [`66cb9c99`](https://github.com/chakra-ui/zag/commit/66cb9c998662fd049590d51cfdcd79f03e2f582b) Thanks
+  [@anubra266](https://github.com/anubra266)! - Improve SSR by omitting the setup step.
+
+- Updated dependencies [[`66cb9c99`](https://github.com/chakra-ui/zag/commit/66cb9c998662fd049590d51cfdcd79f03e2f582b),
+  [`248a6a03`](https://github.com/chakra-ui/zag/commit/248a6a03d88cedb1f24b6b6cb4ac96444595878f)]:
+  - @zag-js/types@0.2.2
+  - @zag-js/live-region@0.1.0
+  - @zag-js/interact-outside@0.1.2
+  - @zag-js/popper@0.1.8
+
 ## 0.1.10
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @zag-js/types
 
+## 0.2.2
+
+### Patch Changes
+
+- [#191](https://github.com/chakra-ui/zag/pull/191)
+  [`66cb9c99`](https://github.com/chakra-ui/zag/commit/66cb9c998662fd049590d51cfdcd79f03e2f582b) Thanks
+  [@anubra266](https://github.com/anubra266)! - Add `CommonProperties` type, remove `uid` type and add `id` type.
+
 ## 0.2.1
 
 ### Patch Changes

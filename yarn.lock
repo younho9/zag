@@ -8224,15 +8224,10 @@ solid-app-router@0.4.1:
   resolved "https://registry.yarnpkg.com/solid-app-router/-/solid-app-router-0.4.1.tgz#cee8da5167fb1e7ce740528324118d76a3d197ba"
   integrity sha512-RKHyFQ+J5lXyE/SoyJVHgTBeBck2etYVJn1/9F7ehlzyD2pIOMqLpNXD1GfWQljHqNdXZBSyE+xB/Cck5l9Q/g==
 
-solid-js@1.4.6:
+solid-js@1.4.6, solid-js@^1.1.1:
   version "1.4.6"
   resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.4.6.tgz#4f4ef0de22d2b1aece77028847420dd815a78872"
   integrity sha512-vF0x5qbVCDi8zlEyN92y/i+pS7QNYh3uNvbSyUYDhLifKuYqGcJwGxbH9zzDX5sR8o1ijgzI6BEAXlcR7Mkkjw==
-
-solid-js@^1.1.1:
-  version "1.4.5"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.4.5.tgz#11083b273751b33cb766c22ad66001ed8daef239"
-  integrity sha512-32NGpuabEJDTeQ7fjaTR2TLC7R/X5hbqhYdEQ1e+GcIK8r8+/V0Nv17eZQii5Z/97/mtdt8yi63chzg73qnz/A==
 
 solid-refresh@^0.2.2:
   version "0.2.2"
@@ -8579,10 +8574,10 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-svelte@3.48.0:
-  version "3.48.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.48.0.tgz#f98c866d45e155bad8e1e88f15f9c03cd28753d3"
-  integrity sha512-fN2YRm/bGumvjUpu6yI3BpvZnpIm9I6A7HR4oUNYd7ggYyIwSA/BX7DJ+UXXffLp6XNcUijyLvttbPVCYa/3xQ==
+svelte@3.49.0:
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.49.0.tgz#5baee3c672306de1070c3b7888fc2204e36a4029"
+  integrity sha512-+lmjic1pApJWDfPCpUUTc1m8azDqYCG1JN9YEngrx/hUyIcFJo6VZhj0A1Ai0wqoHcEIuQy+e9tk+4uDgdtsFA==
 
 tabbable@^5.3.3:
   version "5.3.3"

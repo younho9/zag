@@ -1218,28 +1218,28 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@lerna/package-graph@5.1.6":
-  version "5.1.6"
-  resolved "https://registry.yarnpkg.com/@lerna/package-graph/-/package-graph-5.1.6.tgz#553edc82bc489449127386f420d0e0f78574b49b"
-  integrity sha512-kAmcZLbFcgzdwwEE34ls2hKKwLNXrp++Lb3QgLi5oZl95cGEXjhGNqECdY+hAgBxaSOAgrAd9dvxoR36zl5LJw==
+"@lerna/package-graph@5.1.8":
+  version "5.1.8"
+  resolved "https://registry.yarnpkg.com/@lerna/package-graph/-/package-graph-5.1.8.tgz#38339c3ad6e1469118ea3d52cf818ce7950d41c3"
+  integrity sha512-aGwXTwCpPfhUPiSRhdppogZjOqJPm39EBxHFDa1E0+/Qaig5avJs4hI6OrPLyjsTywAswtCMOArvD1QZqxwvrQ==
   dependencies:
-    "@lerna/prerelease-id-from-version" "5.1.6"
-    "@lerna/validation-error" "5.1.6"
+    "@lerna/prerelease-id-from-version" "5.1.8"
+    "@lerna/validation-error" "5.1.8"
     npm-package-arg "^8.1.0"
     npmlog "^6.0.2"
     semver "^7.3.4"
 
-"@lerna/prerelease-id-from-version@5.1.6":
-  version "5.1.6"
-  resolved "https://registry.yarnpkg.com/@lerna/prerelease-id-from-version/-/prerelease-id-from-version-5.1.6.tgz#ce03815e967433784bbfe9b989e3368008684642"
-  integrity sha512-LJYIuxw9rpKkCWtE10gOOyqpcKRzV34Ljk0L0WSaXILlcWf5bAb0ZmF8t5UJ/MzhGklYwT/Fk0yPtVtu7GnBaA==
+"@lerna/prerelease-id-from-version@5.1.8":
+  version "5.1.8"
+  resolved "https://registry.yarnpkg.com/@lerna/prerelease-id-from-version/-/prerelease-id-from-version-5.1.8.tgz#83f27db93b19ccb74187e85b8174e4bd4f46e091"
+  integrity sha512-wfWv/8lHSk2/pl4FjopbDelFSLCz9s6J9AY5o7Sju9HtD9QUXcQHaXnEP1Rum9/rJZ8vWdFURcp9kzz8nxQ1Ow==
   dependencies:
     semver "^7.3.4"
 
-"@lerna/validation-error@5.1.6":
-  version "5.1.6"
-  resolved "https://registry.yarnpkg.com/@lerna/validation-error/-/validation-error-5.1.6.tgz#12371dcc8dc610e04644b1bcf05535c6487755ca"
-  integrity sha512-6+rc1bGTqaRMvML8Qew+RoqZFxyESSX+GBCTv0pW1SBcNo/yC76fq9y/WSA3dn6GuqHWyX3H0Yki7HutezM7/A==
+"@lerna/validation-error@5.1.8":
+  version "5.1.8"
+  resolved "https://registry.yarnpkg.com/@lerna/validation-error/-/validation-error-5.1.8.tgz#e12f6ee6bb9bd18bc1f3b2d0ae3045882d2a4f32"
+  integrity sha512-n+IiaxN2b08ZMYnezsmwL6rXB15/VvweusC04GMh1XtWunnMzSg9JDM7y6bw2vfpBBQx6cBFhLKSpD2Fcq5D5Q==
   dependencies:
     npmlog "^6.0.2"
 
@@ -8224,15 +8224,10 @@ solid-app-router@0.4.1:
   resolved "https://registry.yarnpkg.com/solid-app-router/-/solid-app-router-0.4.1.tgz#cee8da5167fb1e7ce740528324118d76a3d197ba"
   integrity sha512-RKHyFQ+J5lXyE/SoyJVHgTBeBck2etYVJn1/9F7ehlzyD2pIOMqLpNXD1GfWQljHqNdXZBSyE+xB/Cck5l9Q/g==
 
-solid-js@1.4.6:
+solid-js@1.4.6, solid-js@^1.1.1:
   version "1.4.6"
   resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.4.6.tgz#4f4ef0de22d2b1aece77028847420dd815a78872"
   integrity sha512-vF0x5qbVCDi8zlEyN92y/i+pS7QNYh3uNvbSyUYDhLifKuYqGcJwGxbH9zzDX5sR8o1ijgzI6BEAXlcR7Mkkjw==
-
-solid-js@^1.1.1:
-  version "1.4.5"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.4.5.tgz#11083b273751b33cb766c22ad66001ed8daef239"
-  integrity sha512-32NGpuabEJDTeQ7fjaTR2TLC7R/X5hbqhYdEQ1e+GcIK8r8+/V0Nv17eZQii5Z/97/mtdt8yi63chzg73qnz/A==
 
 solid-refresh@^0.2.2:
   version "0.2.2"

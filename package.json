@@ -63,7 +63,7 @@
     "@commitlint/cli": "17.0.3",
     "@commitlint/config-conventional": "17.0.3",
     "@emotion/css": "11.9.0",
-    "@lerna/package-graph": "5.1.6",
+    "@lerna/package-graph": "5.1.8",
     "@manypkg/cli": "0.19.1",
     "@playwright/test": "1.23.1",
     "@swc-node/jest": "1.5.2",
